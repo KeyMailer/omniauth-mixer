@@ -51,3 +51,6 @@ build-iPhoneSimulator/
 
 ## Visual Studio Code
 .vscode
+
+## RubyMine files
+/.idea/
