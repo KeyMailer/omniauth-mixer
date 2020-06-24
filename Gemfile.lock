@@ -26,7 +26,7 @@ GEM
     omniauth-oauth2 (1.6.0)
       oauth2 (~> 1.1)
       omniauth (~> 1.9)
-    rack (2.0.8)
+    rack (2.2.3)
     rake (0.9.6)
 
 PLATFORMS
@@ -35,7 +35,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.5)
   omniauth-mixer!
-  rake (~> 2.0.6)
+  rake (~> 0)
 
 BUNDLED WITH
    1.17.1
